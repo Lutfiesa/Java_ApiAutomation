@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite API">
+
+    <test name="API Automation">
+        <classes>
+            <class name="apitest.apiauto" />
+        </classes>
+    </test>
+
+</suite>
